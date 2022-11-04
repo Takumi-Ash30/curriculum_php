@@ -9,7 +9,6 @@
     }else{
       echo $i;
     }
-
     echo '<br>';
   }
 ?>
