@@ -1,0 +1,13 @@
+body{
+  background-color: gray;
+  text-align: center;
+  margin: 0 auto;  
+}
+
+h1 {
+  color: white;
+  font-family: serif;
+  border-bottom: 5px solid white;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}

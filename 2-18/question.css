@@ -1,0 +1,36 @@
+body{
+  background-color: gray;
+}
+
+.body {
+  text-align: center;
+  margin: 0 auto;
+}
+
+p {
+  margin-top: 30px;
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+.choices {
+  display: flex;
+  justify-content: center;
+
+}
+
+.choice {
+  display: flex;
+  text-align: center;
+}
+
+.word{
+  color: white;
+}
+
+.send {
+  margin-top: 20px;
+}
