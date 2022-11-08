@@ -1,6 +1,6 @@
 <?php
+  date_default_timezone_set('Asia/Tokyo');
   function greeting() {
-    date_default_timezone_set('Asia/Tokyo');
     $date = date("Y-m-d H:i:s", time());
     $hour = intval(substr($date,11,2));
     printf("今%d時台です\n", $hour); echo '<br>';
